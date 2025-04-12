@@ -37,13 +37,13 @@ nocturnes
   1844 op 55
     no 1
     no 2
-  1875 no 20, op posth [comp 1830]
-  1938 no 21, op posth [comp 1848]
+  1875 op posth [comp 1830] | no 20
+  1938 op posth [comp 1848] | no 21
 1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
 waltzes
   1838 op 34, no 2
   1855 op posth 69, no 2 [comp 1829]
-  1955 no 19, op posth [comp 1849]
+  1955 op posth [comp 1849] | no 19
 preludes
   1839 op 28
     no 4
@@ -169,6 +169,9 @@ dmitri shostakovich
 1956 suite for variety orchestra no 1, mov 7, waltz no 2
 1957 piano concerto no 2, op 102, mov 2
 
+john lewis
+1959 skating in central park ("odds against tomorrow" movie)
+
 henry mancini
 1961 mr. lucky goes latin (album)
   lujon
@@ -198,7 +201,7 @@ astor piazzolla
 1982 oblivion
 
 sting
-1983 every breath you take
+1983 every breath you take ft. the police
 1987 fragile {nothing like the sun}
 1993 ten summoner's tales (album)
   fields of gold
@@ -230,7 +233,7 @@ valentin silvestrov
 
 max richter
 2004 on the nature of daylight
-2012 le quattro stagioni ("the four seasons"), concerto no 3, l'autunno ("autumn"), op 8, mov 3 [rework] ft antonio vivaldi
+2012 le quattro stagioni ("the four seasons"), concerto no 3, l'autunno ("autumn"), op 8, mov 3 [rework] ft. antonio vivaldi
 
 coldplay
 2005 fix you {x&y}
@@ -258,7 +261,7 @@ ed sheeran
 2014 (jun) thinking out loud {x}
 
 chad lawson
-2014 (sep) the chopin variations (album) [rework] ft frédéric chopin
+2014 (sep) the chopin variations (album) [rework] ft. frédéric chopin
   nocturnes
     op 9, no 2
     op 55, no 1
@@ -299,12 +302,15 @@ the weeknd
 bradley cooper; lady gaga
 2018 (aug) shallow ("a star is born" movie)
 
-finneas o'connell
+billie eilish; finneas o'connell
 2018 (oct) when the party's over
 2019 i love you {when we all fall asleep, where do we go?}
 
 damjan krajacic; robert thies
-2020 forest path
+2020 (jan) forest path
+
+rachel portman
+2020 (may) flight
 
 stephan moccio
 2021 (apr) october
@@ -323,7 +329,7 @@ mark slater
 2022 bones
 
 tom ashbrook
-2024 (jan) out [rework] ft matthew wilcock
+2024 (jan) out [rework] ft. matthew wilcock
 
 joep beving; maarten vos
 2024 (jul) the heron

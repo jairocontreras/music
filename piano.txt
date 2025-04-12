@@ -69,8 +69,8 @@ nocturnes
     no 1
     no 2
   1855 op posth 72, no 1 [comp 1826]
-  1875 no 20, op posth [comp 1830]
-  1938 no 21, op posth [comp 1848]
+  1875 op posth [comp 1830] | no 20
+  1938 op posth [comp 1848] | no 21
 mazurkas
   1833 op 17, no 4
   1846 op 63, no 3
@@ -86,8 +86,8 @@ waltzes
     op posth 69, no 1 [comp 1835] | l'adieu ("farewell")
     op posth 69, no 2 [comp 1829]
     op posth 70, no 2 [comp 1842]
-  1868 no 14, op posth [comp 1830]
-  1955 no 19, op posth [comp 1849]
+  1868 op posth [comp 1830] | no 14
+  1955 op posth [comp 1849] | no 19
 preludes
   1839 op 28
     no 4
@@ -242,6 +242,12 @@ joaquín rodrigo
 harry warren
 1941 at last ("sun valley serenade" movie)
 
+jule styne
+1945 i fall in love too easily ("anchors aweigh" movie)
+
+victor young
+1949 my foolish heart {movie}
+
 francis poulenc
 1958 improvisation no 13
 1959 novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'") | fp 173
@@ -330,6 +336,9 @@ ennio morricone
 bebu silvetti
 1991 barroco ("baroque")
 
+alan menken
+1991 (sep) theme ("beauty and the beast" movie)
+
 michael nyman
 1993 the heart asks pleasure first ("the piano" movie)
 
@@ -355,7 +364,9 @@ joe hisaishi
 1997
   (jul) ashitaka and san ("princess mononoke" movie)
   (sep) theme ("fireworks" movie) | hana-bi
-2001 one summer's day ("spirited away" movie)
+2001 spirited away (movie)
+  one summer's day
+  the sixth station
 2004 howl's moving castle (movie)
   merry-go-round of life
   you're in love
@@ -398,7 +409,7 @@ dustin o'halloran
 2004 opus 28
 
 hans zimmer
-2008 oogway ascends ("kung fu panda" movie) ft john powell
+2008 oogway ascends ("kung fu panda" movie) ft. john powell
 2014 message from home ("interstellar" movie)
 
 nils frahm
@@ -415,7 +426,7 @@ nils frahm
     merry
     four hands
 2016 (mar)
-  (04) trance frendz (album) ft ólafur arnalds
+  (04) trance frendz (album) ft. ólafur arnalds
     20:17
     21:05
   (28) solo remains (album)
@@ -457,7 +468,7 @@ jon hopkins
 2014 (sep 15) i remember
 
 chad lawson
-2014 (sep 23) the chopin variations (album) [rework] ft frédéric chopin
+2014 (sep 23) the chopin variations (album) [rework] ft. frédéric chopin
   nocturnes, op 9, no 2
   preludes, op 28
     no 6
@@ -465,7 +476,7 @@ chad lawson
     no 20
 
 stephan moccio
-2015 (feb) earned it ("fifty shades of grey" movie)
+2015 (feb) earned it ("fifty shades of grey" movie) ft. the weeknd
 2021 ow
 2023 the sound of snow
 2024
@@ -502,9 +513,9 @@ daigo hanada
 2017 ichiru (album)
   silhouette
   fragment, part 1
-2022
-  (jul) muku ft hiroko murakami
-  (dec) seis [rework] ft hiroko murakami
+2022 ft. hiroko murakami
+  (jul) muku
+  (dec) seis [rework]
 2023
   (mar) iris
   (apr) sakura sakura ("cherry blossoms")
@@ -518,7 +529,7 @@ luke faulkner
 2023 valse bohemienne ("bohemian waltz")
 
 víkingur ólafsson
-2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude [rework] ft johann sebastian bach
+2018 das wohltemperirte clavier ("the well-tempered clavier"), book 1, no [x], prelude [rework] ft. johann sebastian bach
   (sep) for johann | no 2 | bwv 847
   (oct) and at the hour of death | no 1 | bwv 846
 
@@ -554,13 +565,13 @@ benjamin gustafsson
 2022 (mar 04) close to her
 
 alexandra stréliski
-2022 (mar 22) gnossienne no 1 [rework] ft erik satie
+2022 (mar 22) gnossienne no 1 [rework] ft. erik satie
 
 bea boethius
 2022 (may) the first birds
 
 olivia belli
-2022 (jun) threnody | piano concerto no 23, mov 2 [rework] ft wolfgang amadeus mozart
+2022 (jun) threnody | piano concerto no 23, mov 2 [rework] ft. wolfgang amadeus mozart
 
 hania rani
 2023 on giacometti (album)
