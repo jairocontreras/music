@@ -18,7 +18,6 @@ nobuo uematsu
 
 martin o'donnell; michael salvatori
 2001 (nov) theme ("halo: combat evolved" game)
-2021 zeta halo ("halo infinite" game) ft. curtis schweitzer
 
 max richter
 2004 on the nature of daylight
@@ -30,3 +29,6 @@ max richter
 
 jacob collier
 2018 (dec) home is
+
+curtis schweitzer
+2021 zeta halo ("halo infinite" game)
