@@ -94,9 +94,7 @@
     (15) rockstar
     (22) self-help tape {aromanticism}
 2018
-  (feb)
-    (09) plug walk
-    (23) psycho
+  (feb) psycho
   (mar) call out my name {my dear melancholy}
   (jun)
     (04) don't miss it
@@ -139,7 +137,6 @@
     (06) party {un verano sin ti}
     (20) love of my life {harry's house}
   (jun) colorblind {blood moon}
-  (dec) breaking point [remix]
 2023
   (mar)
     (17) ribbons

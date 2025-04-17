@@ -51,7 +51,7 @@
   lothlorien (lament for gandalf)
 2002
   (may) star wars: episode ii - attack of the clones
-    across the stars (love theme)
+    love theme | across the stars
   (jul) road to perdition
     theme
     reading room
@@ -72,7 +72,7 @@
     (02) memories of murder
       factory lights
     (18) finding nemo
-      nemo egg
+      nemo egg | main title
       haiku
   (jun) pirates of the caribbean: the curse of the black pearl
     the medallion calls
@@ -184,7 +184,7 @@
     alone
     change your world
   (oct) interstellar
-    day one | theme
+    theme | day one
     dust
     afraid of time
     first step

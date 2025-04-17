@@ -1,4 +1,3 @@
-jeremy soule
 2011 the elder scrolls v: skyrim
   awake
   from past to present
@@ -30,19 +29,9 @@ jeremy soule
   the gathering storm
   sky above, voice within
   wind guide you
-
-gustavo santaolalla
 2013 the last of us
   theme
   all gone (no escape)
-2020 the last of us part ii
-  theme
-  longing
-  it can't last
-  soft descent
-  beyond desolation
-
-gareth coker
 2015 ori and the blind forest
   calling out
   first steps into sunken glades
@@ -57,39 +46,42 @@ gareth coker
   theme
   through the darkness
   dash through their home
-  naru's origins no 3, a broken bond
+  naru's origins iii, a broken bond
   a closer understanding of the past
   the mists cleared
   arrival at the sunstone
   travelling through horu fields
   mount horu puzzle rooms, suite 1
   mount horu puzzle rooms, suite 2
-2020 ori and the will of the wisps
-  theme
-  separated by the storm
-  a shine upon inkwater marsh
-  overlooking the mill
-  kwolok's hollow
-  dashing and bashing
-  sanctuary in the glades
-  silent woodlands
-  ash and bone
-  shadows of mouldwood
-  midnight burrows
-  baur's peak
-  shriek's tale
-  the windswept wastes
-  burrowing
-  approaching the ruins
-  the windtorn ruins
-  willow's end
-  decay
-
-curtis schweitzer
+2020
+  (mar) ori and the will of the wisps
+    theme
+    separated by the storm
+    a shine upon inkwater marsh
+    overlooking the mill
+    kwolok's hollow
+    dashing and bashing
+    sanctuary in the glades
+    silent woodlands
+    ash and bone
+    shadows of mouldwood
+    midnight burrows
+    baur's peak
+    shriek's tale
+    the windswept wastes
+    burrowing
+    approaching the ruins
+    the windtorn ruins
+    willow's end
+    decay
+  (jun) the last of us part ii
+    theme
+    longing
+    it can't last
+    soft descent
+    beyond desolation
 2021 halo infinite
   sacrifice
-
-bear mccreary
 2022 god of war ragnarok
   holding on
   whispered souls

@@ -163,7 +163,7 @@ alberto ginastera
 
 francis poulenc
 1940 les chemins de l'amour ("the ways of love")
-1943 metamorphoses, no 2, c'est ainsi que tu es ("that's how you are")
+1943 metamorphosis no 2, c'est ainsi que tu es ("that's how you are")
 
 dmitri shostakovich
 1956 suite for variety orchestra no 1, mov 7, waltz no 2
@@ -213,8 +213,14 @@ radiohead
 philip glass
 1994 etude no 2 | echorus
 
+kenji yamamoto; minako hamano
+1994 (mar) theme ("super metroid" game)
+
+yasunori mitsuda
+1995 (mar) theme ("chrono trigger" game)
+
 ryuichi sakamoto
-1995 smoochy (album)
+1995 (oct) smoochy (album)
   bibo no aozora ("beautiful blue sky")
   aoneko no torso ("torso of a blue cat")
 2004
@@ -238,20 +244,31 @@ max richter
 coldplay
 2005 fix you {x&y}
 
+jeremy soule
+2006 reign of the septims ("the elder scrolls iv: oblivion" game)
+
+garry schyman
+2007 the ocean on his shoulders ("bioshock" game)
+
+inon zur
+2008 theme ("fallout 3" game)
+
 nils frahm
-2009 ambre
-2018 a place
+2009 (dec 07) ambre
+
+masashi hamauzu
+2009 (dec 17) the promise ("final fantasy xiii" game) | fabula nova crystallis ("the new tale of the crystal")
 
 brian eno
 2010 emerald and stone
 
 a winged victory for the sullen
 2011 (sep) requiem for the static king, part 1
-2014 atomos no 3
+2014 atomos iii
 
 ólafur arnalds
 2011 (dec) near light
-2016 kinethesia no 1
+2016 kinesthesia i
 
 ludovico einaudi
 2013 walk
@@ -267,7 +284,7 @@ chad lawson
     op 55, no 1
 
 petter udland johansen
-2014 (nov) meditation no 2
+2014 (nov) meditation ii
 
 hania rani
 2015 (sep) preludium c-moll
@@ -306,7 +323,7 @@ billie eilish; finneas o'connell
 2018 (oct) when the party's over
 2019 i love you {when we all fall asleep, where do we go?}
 
-damjan krajacic; robert thies
+damjan krajačić; robert thies
 2020 (jan) forest path
 
 rachel portman
