@@ -83,8 +83,9 @@ waltzes
   1838 op 34, no 2
   1847 op 64, no 2
   1855
-    op posth 69, no 1 [comp 1835] | l'adieu ("farewell")
-    op posth 69, no 2 [comp 1829]
+    op posth 69
+      no 1 [comp 1835] | l'adieu ("farewell")
+      no 2 [comp 1829]
     op posth 70, no 2 [comp 1842]
   1868 op posth [comp 1830] | no 14
   1955 op posth [comp 1849] | no 19
@@ -219,7 +220,7 @@ manuel blancafort
 george gershwin
 1924 the man i love
 1934 porgy and bess, act 1, scene 1, summertime
-1937 they can't take that away from me ("shall we dance" movie)
+1937 they can't take that away from me
 
 george gurdjieff
 1924 untitled
@@ -243,7 +244,7 @@ harry warren
 1941 at last ("sun valley serenade" movie)
 
 jule styne
-1945 i fall in love too easily ("anchors aweigh" movie)
+1944 i fall in love too easily
 
 victor young
 1949 my foolish heart {movie}
@@ -268,7 +269,7 @@ anthony newley; leslie bricusse
 1971 pure imagination ("willy wonka & the chocolate factory" movie)
 
 olivier toussaint; paul de senneville
-1974 (nov) dolannes melodie ("dolannes melody") ("no pockets in a shroud" movie)
+1974 (nov) dolannes melodie ("no pockets in a shroud" movie)
 1977 a comme amour ("l as in love")
 1978 mariage d'amour ("marriage of love")
 
@@ -364,6 +365,7 @@ joe hisaishi
 1997
   (jul) ashitaka and san ("princess mononoke" movie)
   (sep) theme ("fireworks" movie) | hana-bi
+2000 ballade ("brother" movie)
 2001 spirited away (movie)
   one summer's day
   the sixth station
@@ -476,10 +478,10 @@ chad lawson
     no 20
 
 the weeknd
-2015 (feb) earned it ("fifty shades of grey" movie)
+2014 (dec) earned it
 
 joep beving
-2015 (mar) solipsism (album)
+2015 solipsism (album)
   etude
   for steven
   zoetrope

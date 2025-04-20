@@ -2,12 +2,12 @@
 1976 hotel california {album}
 1977
   (nov) wonderful tonight {slowhand}
-  (dec) stayin' alive ("saturday night fever" movie)
+  (dec) stayin' alive
 1979 don't stop 'til you get enough
 1980 another one bites the dust {the game}
 1981
   (jan) in the air tonight
-  (jul) endless love {movie}
+  (jun) endless love
 1982
   (apr) africa {toto iv}
   (nov) thriller (album)
@@ -89,19 +89,17 @@
   (20) photograph
 2015
   (feb) where are u now {skrillex and diplo present jack u}
-  (apr)
-    (01) see you again ("furious 7" movie)
-    (07) the night we met {strange trails}
+  (mar) see you again
+  (apr) the night we met {strange trails}
   (jun)
     (08) can't feel my face
     (16) 7 years {lukas graham}
   (nov) love yourself {purpose}
 2016
   (jan) love on the brain {anti}
+  (jun) heathens
   (jul) closer
-  (aug)
-    (01) heathens ("suicide squad" movie)
-    (20) pink + white {blonde}
+  (aug) pink + white {blonde}
   (sep) starboy
   (oct) 24k magic
   (nov)
@@ -125,14 +123,13 @@
   (may) heat waves
     [2022]
     [2024]
+  (oct) sunflower
   (nov)
     (03) thank u, next
       [2020]
       [2023]
     (08) someone you loved
-  (dec)
-    (01) sunflower ("spider-man: into the spider-verse" movie)
-    (24) wow
+  (dec) wow
 2019
   (feb) please me
   (nov)
@@ -150,5 +147,5 @@
       peaches
   (apr) deja vu
   (jul) nda
-  (nov) enemy ("arcane" series) [1]
+  (oct) enemy
 2022 as it was

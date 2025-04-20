@@ -8,14 +8,15 @@ pieces de viole ("violin pieces")
   1717 book 4, no 6, muzette ("bagpipe")
   1725 book 5, no 16, prelude en harpegement ("prelude in harp")
 
-antonio vivaldi
-1723 le quattro stagioni ("the four seasons"), concerto no 1, la primavera ("spring"), op 8, mov 2
-
 johann sebastian bach
+1723 cello suite no 4, mov 1, prelude | bwv 1010
 1725 prelude | bwv 999
 1729 ich steh mit einem fuß im grabe ("i stand with one foot in the grave"), mov 1, sinfonia ("symphony") | arioso ("airy") | bwv 156
 1736 komm, sußer tod, komm selge ruh ("come, sweet death, come, blessed rest") | bwv 478
 1738 keyboard concerto no 5, mov 2 | bwv 1056
+
+antonio vivaldi
+1725 le quattro stagioni ("the four seasons"), concerto no 1, la primavera ("spring"), op 8, mov 2
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
@@ -190,6 +191,9 @@ violeta parra
 
 john lennon
 1971 imagine {album}
+
+olivier toussaint; paul de senneville
+1978 les fleurs sauvages ("the wild flowers")
 
 peter sculthorpe
 1979 requiem for cello alone, mov 4, lacrimosa ("weeping")
