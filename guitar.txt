@@ -1,8 +1,14 @@
 johann sebastian bach
 1723 cello suite no 1, mov 1, prelude | bwv 1007
 
+ludwig van beethoven
+1801 piano sonata no 14, quasi una fantasia ("in the manner of a fantasy"), op 27, no 2, mov 1 | moonlight
+
 franz schubert
 1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
+
+felix mendelssohn
+1830 lieder ohne worte ("songs without words"), book 1, op 19, no 6, venetianisches gondellied ("venetian boat song")
 
 frédéric chopin
 1839 preludes, op 28
@@ -174,6 +180,7 @@ egberto gismonti
 
 john williams
 1977 princess leia's theme ("star wars" movie)
+1993 theme ("jurassic park" movie)
 
 john rutter
 1979 suite antique, mov 1, prelude
@@ -219,7 +226,9 @@ jorge cardoso
 
 philip glass
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
-1994 etude no 5
+1994 etudes
+  no 2
+  no 5
 1998 truman sleeps ("the truman show" movie)
 2002 the poet acts ("the hours" movie)
 
