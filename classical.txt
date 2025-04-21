@@ -24,6 +24,9 @@ christoph willibald gluck
 wolfgang amadeus mozart
 1792 requiem, no 3, sequentia ("sequence"), mov 6, lacrimosa ("weeping")
 
+ludwig van beethoven
+1798 piano sonata no 8, op 13, mov 2 | pathetique ("emotional")
+
 franz schubert
 1827 impromptus, op 90, no 3
 1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
@@ -40,15 +43,18 @@ nocturnes
     no 2
   1875 op posth [comp 1830] | no 20
   1938 op posth [comp 1848] | no 21
+1833 mazurkas, op 17, no 4
 1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
 waltzes
   1838 op 34, no 2
+  1847 op 64, no 2
   1855 op posth 69, no 2 [comp 1829]
   1955 op posth [comp 1849] | no 19
 preludes
   1839 op 28
     no 4
     no 6
+    no 15 | raindrop
     no 20 | chord
 1847 cello sonata, op 65, mov 3
 
@@ -215,7 +221,9 @@ radiohead
 1992 creep
 
 philip glass
-1994 etude no 2 | echorus
+1994 etudes
+  no 2 | echorus
+  no 5
 
 kenji yamamoto; minako hamano
 1994 (mar) theme ("super metroid" game)
@@ -307,6 +315,7 @@ bremer/mccoy
 
 yiruma
 2017 frame (album)
+  walking in the forest
   framed
   a moonlight song
 2019 nocturnal mind

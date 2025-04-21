@@ -274,7 +274,7 @@ olivier toussaint; paul de senneville
 1978 mariage d'amour ("marriage of love")
 
 nino rota
-1974 (dec) the immigrant ("the godfather part ii" movie) | main title
+1974 (dec) the immigrant ("the godfather part ii" movie)
 
 john williams
 1977 princess leia's theme ("star wars" movie)
@@ -471,7 +471,9 @@ jon hopkins
 
 chad lawson
 2014 (sep 23) the chopin variations (album) [rework] ft. frédéric chopin
-  nocturnes, op 9, no 2
+  nocturnes
+    op 9, no 2
+    op 55, no 1
   preludes, op 28
     no 6
     no 15

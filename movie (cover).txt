@@ -1,5 +1,5 @@
 1962 lawrence of arabia
-  theme | overture
+  theme
 1967 you only live twice
   theme
   capsule in space
@@ -16,7 +16,7 @@
 1972 the godfather
   love theme | speak softly love
 1974 the godfather part ii
-  the immigrant | main title
+  the immigrant
   kay
 1975 moses the lawgiver [series]
   theme (journey)
@@ -35,7 +35,7 @@
     deborah's theme
 1985
   (jul) back to the future
-    theme | overture
+    theme
   (dec) out of africa
     have you got a story for me
     karen builds a school
