@@ -79,7 +79,9 @@ edvard grieg
 1875 peer gynt, op 23, act 3, scene 2, solvejgs sang ("solveig's song")
 
 gabriel fauré
-1879 melodies, op 23, no 1, les berceaux ("the cradles")
+melodies
+  1877 op 7, no 1, apres un reve ("after a dream")
+  1879 op 23, no 1, les berceaux ("the cradles")
 1887 pavane, op 50
 
 antonín dvořák
