@@ -16,7 +16,9 @@ johann sebastian bach
 1738 keyboard concerto no 5, mov 2 | bwv 1056
 
 antonio vivaldi
-1725 le quattro stagioni ("the four seasons"), concerto no 1, la primavera ("spring"), op 8, mov 2
+1725 le quattro stagioni ("the four seasons"), concerto no [x], op 8
+  no 1, la primavera ("spring"), mov 2
+  no 3, l'autunno ("autumn"), mov 3
 
 christoph willibald gluck
 1774 orfeo ed euridice ("orpheus and eurydice"), melodie ("melody")
@@ -65,18 +67,21 @@ franz liszt
 camille saint-saëns
 1862 suite for cello and piano, op 16, mov 2, serenade
 1874 danse macabre ("dance of death"), op 40
+1886 le carnaval des animaux ("the carnival of the animals"), mov 13, le cygne ("the swan")
 
 johannes brahms
 1865 waltzes, op 39, no 15
 
 césar franck
 1873 lied ("song") | fwv 83
+1886 violin sonata, mov 1 | fwv 8
 
 henri duparc
 1874 extase ("ecstasy")
 
 edvard grieg
 1875 peer gynt, op 23, act 3, scene 2, solvejgs sang ("solveig's song")
+1895 lyriske stykker ("lyric pieces"), book 7, op 62, no 5, drømmesyn ("phantom")
 
 gabriel fauré
 melodies
@@ -134,6 +139,7 @@ maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
 1903 string quartet, mov 2
 1907 vocalise-etude en forme de habanera ("vocalise-study in the form of a habanera")
+1910 ma mere l'oye ("mother goose"), mov 1, pavane de la belle au bois dormant ("pavane of the sleeping beauty")
 1928 bolero
 
 fermo dante marchetti

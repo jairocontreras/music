@@ -12,14 +12,16 @@
     (16) love story
       theme
     (31) lady caliph
-      la cena ("dinner") | ~nocturne
+      la cena ("dinner") | nocturne
 1972 the godfather
   love theme | speak softly love
 1974 the godfather part ii
   the immigrant
   kay
 1975 moses the lawgiver [series]
-  theme (journey)
+  theme | journey
+1977 star wars
+  princess leia's theme
 1980 somewhere in time
   theme
 1981 raiders of the lost ark
@@ -65,6 +67,7 @@
   for the love of a princess
 1997 princess mononoke
   the legend of ashitaka
+  the journey to the west
   ashitaka and san
 1998 the legend of 1900
   playing love
@@ -109,6 +112,8 @@
   the last agni kai
 2008 kung fu panda
   oogway ascends
+2009 up
+  married life
 2010 inception
   time
 2012
