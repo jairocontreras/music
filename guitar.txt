@@ -15,12 +15,12 @@ frédéric chopin
   no 4
   no 20 | chord
 
+julián arcas
+1860 fantasia sobre motivos de "la traviata" de verdi ("fantasy on themes from 'the fallen woman' by verdi")
+1867 solea
+
 johannes brahms
 1865 waltzes, op 39, no 15
-
-julián arcas
-1865 fantasia sobre motivos de "la traviata" de verdi ("fantasy on themes from 'the fallen woman' by verdi")
-1867 solea
 
 edvard grieg
 lyriske stykker ("lyric pieces")
@@ -106,7 +106,7 @@ ernesto grenet
 1942 drume negrita ("sleep little one") | cancion de cuna ("cradle song")
 
 federico mompou
-1942 cancons i danses ("songs and dances"), no 6
+1942 cancons i danses ("songs and dances"), no 6 [pub 1943]
 1962 suite compostelana, mov 2, coral ("chorale")
 
 dilermando reis
@@ -118,7 +118,7 @@ andrés segovia
 
 mario castelnuovo-tedesco
 greetings cards, op 170
-  1954 no 5, tonadilla sur le nom de andres segovia ("tonadilla on the name of andres segovia")
+  1954 no 5, tonadilla sur le nom de andres segovia ("tonadilla on the name of andres segovia") [pub 1956]
   1957 no 14, ninna nanna, a lullaby for eugene
   1958 no 15, canto delle azzorre sul nome di enos ("song of the azores on the name of enos")
 
@@ -141,6 +141,9 @@ eduardo sainz de la maza
 1963 campanas del alba ("bells at dawn")
 1972 platero y yo ("platero and i"), mov 7, la muerte ("death")
 
+vicente asencio
+1965 collectici intim ("intimate collection"), mov 3, la calma ("the calm")
+
 vicente emilio sojo
 1965 piezas de venezuela ("pieces from venezuela")
   no 1, cantico ("chant")
@@ -153,9 +156,6 @@ the beatles
   (dec) michelle {rubber soul}
 1968 blackbird {the beatles}
 1969 because {abbey road}
-
-vicente asencio
-1965 collectici intim ("intimate collection"), mov 3, la calma ("the calm")
 
 violeta parra
 1966 gracias a la vida ("thanks to life")
@@ -226,7 +226,7 @@ jorge cardoso
 
 philip glass
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")
-1994 etudes
+1994 etudes, book 1
   no 2
   no 5
 1998 truman sleeps ("the truman show" movie)

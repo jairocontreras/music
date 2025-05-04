@@ -34,24 +34,24 @@ franz schubert
 1828 schwanengesang ("swan song"), no 4, standchen ("serenade")
 
 frédéric chopin
-etudes
-  1832 op 10, no 3 | tristesse ("sadness")
-  1835 op 25, no 7 | cello
 nocturnes
   1832 op 9, no 2
   1837 op 32, no 1
   1844 op 55
     no 1
     no 2
-  1875 op posth [comp 1830] | no 20
-  1938 op posth [comp 1848] | no 21
+  1875 op posth | no 20 [comp 1830]
+  1938 op posth | no 21 [comp 1848]
+etudes
+  1832 op 10, no 3 | tristesse ("sadness") [pub 1833]
+  1835 op 25, no 7 | cello
 1833 mazurkas, op 17, no 4
 1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
 waltzes
   1838 op 34, no 2
   1847 op 64, no 2
   1855 op posth 69, no 2 [comp 1829]
-  1955 op posth [comp 1849] | no 19
+  1955 op posth | no 19 [comp 1849]
 preludes
   1839 op 28
     no 4
@@ -81,7 +81,6 @@ lyriske stykker ("lyric pieces")
 
 césar franck
 1873 lied ("song") | fwv 83
-1885 variations symphoniques ("symphonic variations"), no 10 | fwv 46
 1886 violin sonata, mov 1 | fwv 8
 
 henri duparc
@@ -94,14 +93,14 @@ melodies
 1887 pavane, op 50
 
 antonín dvořák
-1880 ciganske melodie ("gypsy songs"), op 55, no 4, kdyz mne stara matka zpivat ucivala ("songs my mother taught me")
+1880 (feb) ciganske melodie ("gypsy songs"), op 55, no 4, kdyz mne stara matka zpivat ucivala ("songs my mother taught me")
 1886 slovanske tance ("slavonic dances"), op 72, no 2
 1887 romanticke kusy ("romantic pieces"), op 75, mov 1
 1893 symphony no 9, z noveho sveta ("from the new world"), op 95, mov 4
 1894 humoresky ("humoresques"), op 101, no 7
 
 claude debussy
-1880 piano trio, mov 2
+1880 (oct) piano trio, mov 2
 1890 reverie ("daydream")
 1891
   arabesque no 1 | l66
@@ -128,10 +127,10 @@ erik satie
 1897 je te veux ("i want you")
 
 enrique granados
-1890 danzas españolas ("spanish dances"), op 37, mov 2, oriental
+1890 danzas españolas ("spanish dances"), op 37, mov 2, oriental [pub 1892]
 
 reynaldo hahn
-1890 chansons grises ("gray songs"), no 5, l'heure exquise ("the exquisite hour")
+1890 chansons grises ("gray songs"), no 5, l'heure exquise ("the exquisite hour") [pub 1893]
 
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
@@ -238,13 +237,13 @@ sting
 radiohead
 1992 creep
 
+kenji yamamoto; minako hamano
+1994 theme ("super metroid" game)
+
 philip glass
-1994 etudes
+1994 etudes, book 1 [pub 2003]
   no 2 | echorus
   no 5
-
-kenji yamamoto; minako hamano
-1994 (mar) theme ("super metroid" game)
 
 yasunori mitsuda
 1995 (mar) theme ("chrono trigger" game)
@@ -264,6 +263,9 @@ secret garden
 r. kelly
 1996 (nov) i believe i can fly ("space jam" movie)
 
+reza vali
+1996 (nov) folk songs, set 12a, no 1, in the style of an armenian folk song [pub 2006]
+
 valentin silvestrov
 2002 stille musik ("silent music"), mov 2, abendserenade ("evening serenade")
 
@@ -274,11 +276,8 @@ max richter
 coldplay
 2005 fix you {x&y}
 
-reza vali
-2006 folk songs, set 12a, no 1, in the style of an armenian folk song
-
 jeremy soule
-2006 (mar) reign of the septims ("the elder scrolls iv: oblivion" game)
+2006 reign of the septims ("the elder scrolls iv: oblivion" game)
 
 garry schyman
 2007 the ocean on his shoulders ("bioshock" game)
