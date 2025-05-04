@@ -134,9 +134,7 @@
   (23) coloratura
 2022
   (feb) sus huellas
-  (may)
-    (06) party {un verano sin ti}
-    (20) love of my life {harry's house}
+  (may) love of my life {harry's house}
   (jun) colorblind {blood moon}
 2023
   (mar)
@@ -178,9 +176,7 @@
     (09) tu name {dolido pero no arrepentido}
     (23) cutting thru the country
   (mar) the last bit of us
-  (jun)
-    (21) roses
-    (28) be careful with me {god said no}
+  (jun) be careful with me {god said no}
   (jul)
     (10) giza
     (26) i'd rather pretend {vanity}

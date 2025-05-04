@@ -39,6 +39,7 @@
   (jul) back to the future
     theme
   (dec) out of africa
+    i had a farm in africa
     have you got a story for me
     karen builds a school
     end credits
@@ -65,10 +66,14 @@
   theme
 1995 braveheart
   for the love of a princess
-1997 princess mononoke
-  the legend of ashitaka
-  the journey to the west
-  ashitaka and san
+1997
+  (jul) princess mononoke
+    theme | hime
+    the legend of ashitaka
+    the journey to the west
+    ashitaka and san
+  (dec) life is beautiful
+    theme | la vita e bella
 1998 the legend of 1900
   playing love
 1999 the mummy

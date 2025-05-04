@@ -72,16 +72,20 @@ camille saint-saëns
 johannes brahms
 1865 waltzes, op 39, no 15
 
+edvard grieg
+lyriske stykker ("lyric pieces")
+  1867 book 1, op 12, no 1, arietta
+  1886 book 3, op 43, no 4, smafugl ("little bird")
+  1895 book 7, op 62, no 5, drømmesyn ("phantom")
+1875 peer gynt, op 23, act 3, scene 2, solvejgs sang ("solveig's song")
+
 césar franck
 1873 lied ("song") | fwv 83
+1885 variations symphoniques ("symphonic variations"), no 10 | fwv 46
 1886 violin sonata, mov 1 | fwv 8
 
 henri duparc
 1874 extase ("ecstasy")
-
-edvard grieg
-1875 peer gynt, op 23, act 3, scene 2, solvejgs sang ("solveig's song")
-1895 lyriske stykker ("lyric pieces"), book 7, op 62, no 5, drømmesyn ("phantom")
 
 gabriel fauré
 melodies
@@ -99,9 +103,13 @@ antonín dvořák
 claude debussy
 1880 piano trio, mov 2
 1890 reverie ("daydream")
-1891 beau soir ("beautiful evening")
+1891
+  arabesque no 1 | l66
+  beau soir ("beautiful evening") | l84
 1905 suite bergamasque, mov 3, clair de lune ("moonlight")
-1910 preludes, book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+1910 preludes, book 1
+  no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+  no 10, la cathedrale engloutie ("the engulfed cathedral")
 
 pyotr ilyich tchaikovsky
 1882 pieces, op 51, no 6, valse sentimentale ("sentimental waltz")
@@ -111,7 +119,9 @@ isaac albéniz
 1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
 
 erik satie
-1888 gymnopedie no 3
+1888 gymnopedies
+  no 1
+  no 3
 1890 gnossiennes
   no 1
   no 3
@@ -264,8 +274,11 @@ max richter
 coldplay
 2005 fix you {x&y}
 
+reza vali
+2006 folk songs, set 12a, no 1, in the style of an armenian folk song
+
 jeremy soule
-2006 reign of the septims ("the elder scrolls iv: oblivion" game)
+2006 (mar) reign of the septims ("the elder scrolls iv: oblivion" game)
 
 garry schyman
 2007 the ocean on his shoulders ("bioshock" game)

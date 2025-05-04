@@ -16,6 +16,9 @@ joseph haydn
 baldassare galuppi
 1706-1785 keyboard sonata, mov 1 | r50
 
+wolfgang amadeus mozart
+1792 requiem, no 3, sequentia ("sequence"), mov 6, lacrimosa ("weeping")
+
 ludwig van beethoven
 piano sonata
   1798 no 8, op 13 | pathetique ("emotional")
@@ -40,7 +43,7 @@ lieder ohne worte ("songs without words")
   1830 book 1, op 19, no 6, venetianisches gondellied ("venetian boat song")
   1834 book 2, op 30
     no 1
-    no 6
+    no 6, venetianisches gondellied ("venetian boat song")
   1845 book 8, op posth 102, no 4
 
 frédéric chopin
