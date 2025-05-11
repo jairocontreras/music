@@ -153,6 +153,7 @@ gnossiennes
     no 3
   1891 no 4
   1968 no 5 [comp 1889]
+1897 je te veux ("i want you")
 
 claude debussy
 1888 la damoiselle elue ("the blessed damozel"), prelude [pub 1893]
@@ -162,6 +163,7 @@ claude debussy
 1903 estampes ("prints"), mov 1, pagodes ("pagodas")
 1905 suite bergamasque
   mov 1, prelude
+  mov 2, menuet ("minuet")
   mov 3, clair de lune ("moonlight")
 preludes
   1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
@@ -190,6 +192,7 @@ preludes
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
 1905 sonatine ("sonatina"), mov 2
+1907 vocalise-etude en forme de habanera ("vocalise-study in the form of a habanera")
 
 henrique oswald
 1900 en nacelle
@@ -228,6 +231,9 @@ george gershwin
 1934 porgy and bess, act 1, scene 1, summertime
 1937 they can't take that away from me
 
+germaine tailleferre
+1928 valse lente ("slow waltz")
+
 duke ellington
 1935 in a sentimental mood
 
@@ -253,7 +259,9 @@ victor young
 1949 my foolish heart {movie}
 
 francis poulenc
-1958 improvisation no 13
+improvisations
+  1958 no 13
+  1959 no 15, hommage a edith piaf ("tribute to edith piaf")
 1959 novelette no 3, sur un theme de manuel de falla tire de "el amor brujo" ("on a theme by manuel de falla from 'love bewitched'") | fp 173
 
 antônio carlos jobim
@@ -416,6 +424,9 @@ dustin o'halloran
 hans zimmer
 2008 oogway ascends ("kung fu panda" movie) ft. john powell
 2014 message from home ("interstellar" movie)
+
+michael giacchino
+2009 (may) stuff we did ("up" movie)
 
 nils frahm
 2009 (dec 07) ambre

@@ -212,6 +212,9 @@ the beatles
 violeta parra
 1966 gracias a la vida ("thanks to life")
 
+jacques revaux
+1967 comme d'habitude ("as usual") | my way
+
 john lennon
 1971 imagine {album}
 
@@ -233,6 +236,9 @@ sting
 1993 ten summoner's tales (album)
   fields of gold
   shape of my heart
+
+stevie wonder
+1984 i just called to say i love you
 
 radiohead
 1992 creep

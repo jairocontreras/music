@@ -1,3 +1,4 @@
+1927 sometimes i'm happy (sometimes i'm blue) [cover]
 1937 they can't take that away from me [cover]
 1939 i get along without you very well [cover]
 1940 besame mucho [cover]
@@ -109,9 +110,7 @@
   (feb) hounds {unfurl}
   (mar)
     (22) the curse of the fold {the dark & the light}
-    (29) when we all fall asleep, where do we go? (album)
-      listen before i go
-      i love you
+    (29) i love you {when we all fall asleep, where do we go?}
   (jun) hey, ma
   (aug) rabi {i, i}
 2020
@@ -160,9 +159,7 @@
     (14) so you are tired
     (25) meridian
     (26) ice slippin
-  (sep 22)
-    better
-    caught between 2 worlds {album}
+  (sep) better
   (oct)
     (06) shit talk {javelin}
     (12) moths
