@@ -68,6 +68,7 @@ nocturnes
   1844 op 55
     no 1
     no 2
+  1846 op 62, no 1
   1855 op posth 72, no 1 [comp 1826]
   1875 op posth | no 20 [comp 1830]
   1938 op posth | no 21 [comp 1848]
@@ -77,7 +78,7 @@ etudes
 mazurkas
   1833 op 17, no 4
   1846 op 63, no 3
-  1855 op 68, no 2 [comp 1827]
+  1855 op posth 68, no 2 [comp 1827]
 1834 andante spianato, op 22
 1835 ballade no 1, op 23
 piano sonata
@@ -175,9 +176,13 @@ sergei rachmaninoff
   no 1, elegie ("elegy")
   no 2, prelude
 1901 piano concerto no 2, op 18, mov 2
-1902 romances, op 21, no 5, lilacs
+romances
+  1902 op 21, no 5, lilacs
+  1915 op 34, no 14, vocalise
 1903 preludes, op 23, no 4
-1911 etudes-tableaux ("study-pictures"), op 33, no 8
+1911 etudes-tableaux ("study-pictures"), op 33
+  no 4 | d minor
+  no 7 | g minor
 1934 rhapsody on a theme of paganini, op 43, no 18
 
 antonín dvořák
@@ -213,6 +218,9 @@ sergei bortkiewicz
 
 heitor villa-lobos
 1910 tristorosa ("sad rose")
+
+reynaldo hahn
+1915 le ruban denoue ("the untied ribbon"), mov 1, decrets indolents du hasard ("indolent decrees of chance")
 
 manuel blancafort
 1917 peces de joventut ("youthful pieces"), no 1, record ("memory")
