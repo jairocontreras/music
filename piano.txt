@@ -73,7 +73,7 @@ nocturnes
   1875 op posth | no 20 [comp 1830]
   1938 op posth | no 21 [comp 1848]
 etudes
-  1832 op 10, no 3 | tristesse ("sadness") [pub 1833]
+  1832 op 10, no 3 | tristesse ("sadness")
   1835 op 25, no 7 | cello
 mazurkas
   1833 op 17, no 4
@@ -144,6 +144,20 @@ richard strauss
 camille saint-saëns
 1886 le carnaval des animaux ("the carnival of the animals"), mov 13, le cygne ("the swan")
 
+claude debussy
+1888 la damoiselle elue ("the blessed damozel"), prelude
+1890 reverie ("daydream")
+1891 arabesque no 1
+1892 nocturne | l82
+1903 estampes ("prints"), mov 1, pagodes ("pagodas")
+1905 suite bergamasque
+  mov 1, prelude
+  mov 2, menuet ("minuet")
+  mov 3, clair de lune ("moonlight")
+preludes
+  1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
+  1913 book 2, no 5, bruyeres ("heather")
+
 erik satie
 1888 gymnopedies
   no 1
@@ -156,20 +170,6 @@ gnossiennes
   1891 no 4
   1968 no 5 [comp 1889]
 1897 je te veux ("i want you")
-
-claude debussy
-1888 la damoiselle elue ("the blessed damozel"), prelude [pub 1893]
-1890 reverie ("daydream")
-1891 arabesque no 1
-1892 nocturne | l82
-1903 estampes ("prints"), mov 1, pagodes ("pagodas")
-1905 suite bergamasque
-  mov 1, prelude
-  mov 2, menuet ("minuet")
-  mov 3, clair de lune ("moonlight")
-preludes
-  1910 book 1, no 8, la fille aux cheveux de lin ("the girl with the flaxen hair")
-  1913 book 2, no 5, bruyeres ("heather")
 
 sergei rachmaninoff
 1892 morceaux de fantaisie ("fantasy pieces"), op 3
@@ -191,7 +191,7 @@ antonín dvořák
 1893 symphony no 9, z noveho sveta ("from the new world"), op 95, mov 4
 
 jean sibelius
-1893 impromptus, op 5, no 6 [pub 1894]
+1893 impromptus, op 5, no 6
 
 alexander scriabin
 preludes
@@ -235,13 +235,13 @@ manuel blancafort
     no 6, la lluna brilla ("the moon shines")
     no 8, tema popular ("popular theme")
 
-george gurdjieff
-1924 untitled
-
 george gershwin
-1924 (dec) the man i love
+1924 the man i love
 1934 porgy and bess, act 1, scene 1, summertime
 1937 they can't take that away from me
+
+george gurdjieff
+1924 untitled
 
 germaine tailleferre
 1928 valse lente ("slow waltz")
@@ -250,7 +250,7 @@ duke ellington
 1935 in a sentimental mood
 
 william grant still
-1935 visions, mov 2, summerland [pub 1936]
+1935 visions, mov 2, summerland
 
 samuel barber
 1936 string quartet, op 11, mov 2 | adagio for strings
@@ -357,11 +357,11 @@ ennio morricone
   playing love
   nocturne with no moon
 
+alan menken
+1991 theme ("beauty and the beast" movie)
+
 bebu silvetti
 1991 barroco ("baroque")
-
-alan menken
-1991 (sep) theme ("beauty and the beast" movie)
 
 michael nyman
 1993 the heart asks pleasure first ("the piano" movie)
@@ -491,9 +491,6 @@ ben lukas boysen
   only in the dark
   eos
 2014 sleepers beat theme
-
-coldplay
-2014 (may) a sky full of stars
 
 jon hopkins
 2014 (sep 15) i remember

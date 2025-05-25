@@ -38,7 +38,7 @@ isaac albéniz
 1886 suite española no 1 ("spanish suite"), op 47, mov 3, sevilla
 1890 españa ("spain"), op 165, mov 3, malagueña
 1891 mallorca, op 202, barcarola ("barcarolle")
-1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend") [pub 1912]
+1892 cantos de españa ("songs of spain"), op 232, mov 1, preludio ("prelude") | suite española no 1 ("spanish suite"), op 47, mov 5, asturias, leyenda ("legend")
 
 enrique granados
 1890 danzas españolas ("spanish dances"), op 37
@@ -106,7 +106,7 @@ ernesto grenet
 1942 drume negrita ("sleep little one") | cancion de cuna ("cradle song")
 
 federico mompou
-1942 cancons i danses ("songs and dances"), no 6 [pub 1943]
+1942 cancons i danses ("songs and dances"), no 6
 1962 suite compostelana, mov 2, coral ("chorale")
 
 dilermando reis
@@ -118,7 +118,7 @@ andrés segovia
 
 mario castelnuovo-tedesco
 greetings cards, op 170
-  1954 no 5, tonadilla sur le nom de andres segovia ("tonadilla on the name of andres segovia") [pub 1956]
+  1954 no 5, tonadilla sur le nom de andres segovia ("tonadilla on the name of andres segovia")
   1957 no 14, ninna nanna, a lullaby for eugene
   1958 no 15, canto delle azzorre sul nome di enos ("song of the azores on the name of enos")
 
@@ -204,25 +204,25 @@ takashi yoshimatsu
 astor piazzolla
 1985 histoire du tango ("history of the tango"), mov 2, cafe 1930
 
-sérgio assad
-1986 aquarelle ("watercolor"), mov 2, valseana
-
 ennio morricone
-1986 (may) gabriel's oboe ("the mission" movie)
+1986 gabriel's oboe ("the mission" movie)
 1988 first youth ("cinema paradiso" movie)
 1998 playing love ("the legend of 1900" movie)
 
+sérgio assad
+1986 aquarelle ("watercolor"), mov 2, valseana
+
 ryuichi sakamoto
 1987 theme ("the last emperor" movie)
+
+jorge cardoso
+1990 piezas sudamericanas ("south american pieces"), no 12, milonga (uruguay)
 
 josé luis merlin
 1990 suite del recuerdo ("memory suite")
   mov 1, evocacion ("evocation")
   mov 3, chacarera
 1997 a ricardo bertin, mov 2, la siesta ("the nap")
-
-jorge cardoso
-1990 (jun) piezas sudamericanas ("south american pieces"), no 12, milonga (uruguay)
 
 philip glass
 1991 orphee, act 1, scene 5, la chambre d'orphee ("orphee's bedroom")

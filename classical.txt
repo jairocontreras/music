@@ -43,7 +43,7 @@ nocturnes
   1875 op posth | no 20 [comp 1830]
   1938 op posth | no 21 [comp 1848]
 etudes
-  1832 op 10, no 3 | tristesse ("sadness") [pub 1833]
+  1832 op 10, no 3 | tristesse ("sadness")
   1835 op 25, no 7 | cello
 1833 mazurkas, op 17, no 4
 1837 piano sonata no 2, op 35, mov 3, marche funebre ("funeral march")
@@ -128,14 +128,14 @@ erik satie
 1897 je te veux ("i want you")
 
 enrique granados
-1890 danzas españolas ("spanish dances"), op 37, mov 2, oriental [pub 1892]
+1890 danzas españolas ("spanish dances"), op 37, mov 2, oriental
 
 reynaldo hahn
-1890 chansons grises ("gray songs"), no 5, l'heure exquise ("the exquisite hour") [pub 1893]
+1890 chansons grises ("gray songs"), no 5, l'heure exquise ("the exquisite hour")
 
 sergei rachmaninoff
 piano concerto
-  1891 no 1, op 1, mov 2
+  1891 no 1, op 1, mov 2 [rev 1917]
   1901 no 2, op 18, mov 2
 1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
 1901 cello sonata, op 19, mov 3
@@ -254,7 +254,7 @@ kenji yamamoto; minako hamano
 1994 theme ("super metroid" game)
 
 philip glass
-1994 etudes, book 1 [pub 2003]
+1994 etudes, book 1
   no 2 | echorus
   no 5
 
@@ -277,7 +277,7 @@ r. kelly
 1996 (nov) i believe i can fly ("space jam" movie)
 
 reza vali
-1996 (nov) folk songs, set 12a, no 1, in the style of an armenian folk song [pub 2006]
+1996 (nov) folk songs, set 12a, no 1, in the style of an armenian folk song
 
 valentin silvestrov
 2002 stille musik ("silent music"), mov 2, abendserenade ("evening serenade")
