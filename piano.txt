@@ -177,7 +177,9 @@ sergei rachmaninoff
   no 2, prelude
 1901 piano concerto no 2, op 18, mov 2
 romances
-  1902 op 21, no 5, lilacs
+  1902 op 21
+    no 5, lilacs
+    no 7, how fair this spot | where beauty dwells
   1915 op 34, no 14, vocalise
 1903 preludes, op 23, no 4
 1911 etudes-tableaux ("study-pictures"), op 33
@@ -489,6 +491,9 @@ ben lukas boysen
   only in the dark
   eos
 2014 sleepers beat theme
+
+coldplay
+2014 (may) a sky full of stars
 
 jon hopkins
 2014 (sep 15) i remember

@@ -112,6 +112,7 @@ claude debussy
 
 pyotr ilyich tchaikovsky
 1882 pieces, op 51, no 6, valse sentimentale ("sentimental waltz")
+1888 piano concerto no 1, op 23, mov 1
 1893 symphony no 6, pathetique ("passionate"), op 74, mov 4
 
 isaac albéniz
@@ -133,16 +134,19 @@ reynaldo hahn
 1890 chansons grises ("gray songs"), no 5, l'heure exquise ("the exquisite hour") [pub 1893]
 
 sergei rachmaninoff
+piano concerto
+  1891 no 1, op 1, mov 2
+  1901 no 2, op 18, mov 2
 1892 morceaux de fantaisie ("fantasy pieces"), op 3, no 1, elegie ("elegy")
-1901
-  (apr) piano concerto no 2, op 18, mov 2
-  (nov) cello sonata, op 19, mov 3
+1901 cello sonata, op 19, mov 3
 romances
   1902 op 21
     no 5, lilacs
     no 7, how fair this spot
   1915 op 34, no 14, vocalise
-1934 rhapsody on a theme of paganini, op 43, no 18
+1934 rhapsody on a theme of paganini, op 43
+  no 12
+  no 18
 
 maurice ravel
 1899 pavane pour une infante defunte ("pavane for a dead princess")
@@ -239,6 +243,9 @@ sting
 
 stevie wonder
 1984 i just called to say i love you
+
+nobuo uematsu
+1987 prelude ("final fantasy" game)
 
 radiohead
 1992 creep
